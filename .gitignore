@@ -1,0 +1,5 @@
+node_modules/
+helpers/genAI.js
+.env
+
+.github/workflows/main.yml
